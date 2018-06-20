@@ -11,4 +11,5 @@ lowest. The second highest and second lowest values were used to quantify variat
 biological replicates. Analysis of methylation variation was done separately for 5’ and 3’ ends.
 
 #*_d150_modified.csv - methylation data for screened IAPs
-#iap_merge_d150.sorted.bed - IAP coordinatesfor ME screen
+
+#iap_merge_d150.sorted.bed - IAP coordinates for ME screen
